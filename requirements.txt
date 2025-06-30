@@ -1,0 +1,6 @@
+# Toutes les bibliothèques nécessaires aux besoins du projet sont répertoriées ici,
+# chaque bibliothèque sur une nouvelle ligne. De cette façon, il est possible d'installer
+# toutes les dépendances du projet à l'aide de la commande pip install -r requirements.txt
+paramiko
+pytest
+scapy
