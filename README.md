@@ -1,4 +1,5 @@
 # PoC : Tests unitaires qui interagissent avec une machine virtuelle pour un outil de scan de ports
+![Header](unit-tests-for-port-scanner-header.png)
 
 ### Création d'un venv : un environnement virtuel Python pour le projet
 1. Créer l'environnement virtuel : `python -m venv .venv`
