@@ -1,7 +1,7 @@
-# PoC : Tests unitaires qui interagissent avec une machine virtuelle pour un outil de scan de ports
+# PoC :  Automatisation des interactions entre Pytest et une machine virtuelle dans le cadre de tests unitaires pour un outil de scan de ports
 ![Header](unit-tests-for-port-scanner-header.png)
 
-[L'article complet sur mon blog >>](https://leonard-namolaru.com/2025/06/30/unit-tests-for-port-scanner/)
+[L'article complet sur mon blog >>](https://leonard-namolaru.com/2025/07/01/unit-tests-for-port-scanner/)
 
 ### Création d'un venv : un environnement virtuel Python pour le projet
 1. Créer l'environnement virtuel : `python -m venv .venv`
